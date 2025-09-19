@@ -10,3 +10,9 @@ p {
 h1, h2, h3, h4, p {
     text-align: center;
 }
+
+div {
+    width: 40%;
+    border: 5px double #800000;
+    margin: 0 auto;
+}
